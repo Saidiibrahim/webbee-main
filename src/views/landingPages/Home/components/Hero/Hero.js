@@ -26,15 +26,15 @@ const Hero = () => {
                 fontWeight: 700,
               }}
             >
-              Exploring the
+              Delivering AI
               <br />
-              Wonders of{' '}
+              to the{' '}
               <Typography
                 color={'primary'}
                 component={'span'}
                 variant={'inherit'}
               >
-                AI%
+                99%
               </Typography>
             </Typography>
           </Box>
