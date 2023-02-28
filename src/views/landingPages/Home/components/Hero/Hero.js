@@ -28,13 +28,13 @@ const Hero = () => {
             >
               Delivering AI
               <br />
-              to the{' '}
+              At The{' '}
               <Typography
                 color={'primary'}
                 component={'span'}
                 variant={'inherit'}
               >
-                99%
+                Edge
               </Typography>
             </Typography>
           </Box>
