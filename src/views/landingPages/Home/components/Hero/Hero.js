@@ -26,9 +26,9 @@ const Hero = () => {
                 fontWeight: 700,
               }}
             >
-              Delivering AI
+              Inspiring The World Through
               <br />
-              To The{' '}
+              AI{' '}
               <Typography
                 color={'primary'}
                 component={'span'}
