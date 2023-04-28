@@ -26,15 +26,15 @@ const Hero = () => {
                 fontWeight: 700,
               }}
             >
-              Inspiring The World Through
+              Inspiring The World
               <br />
-              AI{' '}
+              Through{' '}
               <Typography
                 color={'primary'}
                 component={'span'}
                 variant={'inherit'}
               >
-                99%
+                AI
               </Typography>
             </Typography>
           </Box>
